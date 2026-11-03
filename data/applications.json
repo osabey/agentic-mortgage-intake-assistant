@@ -1,0 +1,5 @@
+[
+  {"application_id":"APP-1001","applicant":"Alex Rivera (synthetic)","annual_income":92000,"loan_amount":280000,"documents":["photo_id","pay_stub","bank_statement","tax_return"]},
+  {"application_id":"APP-1002","applicant":"Jordan Lee (synthetic)","annual_income":71000,"loan_amount":240000,"documents":["photo_id","pay_stub"]},
+  {"application_id":"APP-1003","applicant":"Taylor Morgan (synthetic)","annual_income":null,"loan_amount":310000,"documents":["photo_id","bank_statement","tax_return"]}
+]

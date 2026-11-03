@@ -1,0 +1,30 @@
+mortgage_intake.db
+__pycache__/
+*.pyc
+.env
+.venv/
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Local database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+
+# Local environments
+.venv/
+venv/
+
+# Downloaded archive
+*.zip
